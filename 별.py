@@ -4,4 +4,4 @@
 number = int(input('별을 얼마나 이동할까요?'))
 
 for i in range(0,number):
-    print(' '*i*number, '*')
+    print(' '*i*number, '**')
