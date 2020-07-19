@@ -11,4 +11,4 @@ for j in range(0,8):
   print(a[j],'단')
   while k < 10:
     print(a[j],'*',k,'=',a[j]*k," ", end='')
-    k=k+1
+    k=k+3
